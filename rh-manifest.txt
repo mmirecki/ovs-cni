@@ -1,0 +1,15 @@
+cni         0.6.0   github.com/containernetworking/cni
+plugins     0.7.3   github.com/containernetworking/plugins
+go-iptable  0.4.0   github.com/coreos/go-iptables
+tail        1.0.0   github.com/hpcloud/tail
+ginkgo      1.6.0   github.com/onsi/ginkgo
+gomega      1.4.1   github.com/onsi/gomega
+netlink     1.0.0   github.com/vishvananda/netlink
+netns       0.0.0-0 github.com/vishvananda/netns
+net         0.0.0-0 golang.org/x/net
+sys         0.0.0-0 golang.org/x/sys
+text        v0.3.0  golang.org/x/text
+fsnotify.v1 1.4.7   gopkg.in/fsnotify.v1
+tomb.v1     1       gopkg.in/tomb.v1
+yaml.v2     2.2.1   gopkg.in/yaml.v2
+
